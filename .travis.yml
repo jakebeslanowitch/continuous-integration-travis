@@ -12,7 +12,4 @@ env:
 script:
 jobs:
   include:
-#     - stage: build
-#       script: script/build
-#     - stage: testlinks
-#       script: script/testlinks
+
